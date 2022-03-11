@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.55b6bf14.chunk.css",
+  "main.js": "/static/js/main.572dccf6.chunk.js",
+  "main.js.map": "/static/js/main.572dccf6.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.f2727529.chunk.js": "/static/js/2.f2727529.chunk.js",
+  "static/js/2.f2727529.chunk.js.map": "/static/js/2.f2727529.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.3b273f63660b8f6442c011e7594dc0b0.js": "/precache-manifest.3b273f63660b8f6442c011e7594dc0b0.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.55b6bf14.chunk.css.map": "/static/css/main.55b6bf14.chunk.css.map",
+  "static/media/astrazeneca.png": "/static/media/astrazeneca.45b0848e.png",
+  "static/media/moderna.png": "/static/media/moderna.22a26b6a.png",
+  "static/media/nurse-men.jpg": "/static/media/nurse-men.b11f7314.jpg",
+  "static/media/nurser-header.png": "/static/media/nurser-header.c86d3281.png",
+  "static/media/pfizer.png": "/static/media/pfizer.a956b613.png",
+  "static/media/sinovac.png": "/static/media/sinovac.7647625c.png",
+  "static/media/woman.png": "/static/media/woman.57b5b494.png"
+}

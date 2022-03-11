@@ -22,3 +22,19 @@
 
   min-height: 100vh;
 }
+.p-text {
+  color: var(--gray-color);
+}
+.icon-container{
+  width: 3rem;
+  height: 3rem;
+  border-radius: .4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--light-blue);
+}
+
+.icon-container{
+  color: var(--primary-blue);
+}

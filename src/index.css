@@ -21,6 +21,8 @@ html {
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  text-transform: capitalize;
+  transition: all .3s ease;
 }
 body{
   font-family: 'Roboto', sans-serif;
